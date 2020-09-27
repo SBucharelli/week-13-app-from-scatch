@@ -1,0 +1,159 @@
+### Call to Second Trimester
+GET http://localhost:9000/secondTrimester
+
+### Add Week 14
+
+PUT http://localhost:9000/secondTrimester/5f601616be18d60602e1a877
+Content-Type: application/json
+
+{
+    "week": "Week 14",
+    "description": "Your baby is about the size of a navel orange.",
+    "slug":"week14",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 15
+
+PUT http://localhost:9000/secondTrimester/5f601622be18d60602e1a878
+Content-Type: application/json
+
+{
+    "week": "Week 15",
+    "description": "Your baby is about the size of an apple.",
+    "slug":"week15",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 16
+
+PUT http://localhost:9000/secondTrimester/5f6016acbe18d60602e1a879
+Content-Type: application/json
+
+{
+    "week": "Week 16",
+    "description": "Your baby is about the size of an avocado.",
+    "slug":"week16",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 17
+
+PUT http://localhost:9000/secondTrimester/5f601848be18d60602e1a87a
+Content-Type: application/json
+
+{
+    "week": "Week 17",
+    "description": "Your baby is about the size of a turnip.",
+    "slug":"week17",
+    "trimester": "secondTrimester"
+
+}
+
+### Add Week 18
+
+PUT http://localhost:9000/secondTrimester/5f6018a7be18d60602e1a87b
+Content-Type: application/json
+
+{
+    "week": "Week 18",
+    "description": "Your baby is about the size of a bell pepper.",
+    "slug":"week18",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 19
+
+PUT http://localhost:9000/secondTrimester/5f6018fbbe18d60602e1a87c
+Content-Type: application/json
+
+{
+    "week": "Week 19",
+    "description": "Your baby is about the size of a pomegranate.",
+    "slug":"week19",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 20
+
+PUT http://localhost:9000/secondTrimester/5f601adfbe18d60602e1a87d
+Content-Type: application/json
+
+{
+    "week": "Week 20",
+    "description": "Your baby is about the size of a sweet potato.",
+    "slug":"week20",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 21
+
+PUT http://localhost:9000/secondTrimester/5f601afbbe18d60602e1a87e
+Content-Type: application/json
+
+{
+    "week": "Week 21",
+    "description": "Your baby is about the size of an ear of corn.",
+    "slug":"week21",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 22
+
+PUT http://localhost:9000/secondTrimester/5f601d0fbe18d60602e1a87f
+Content-Type: application/json
+
+{
+    "week": "Week 22",
+    "description": "Your baby is about the size of a large zucchini.",
+    "slug":"week22",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 23
+
+PUT http://localhost:9000/secondTrimester/5f601d37be18d60602e1a880
+Content-Type: application/json
+
+{
+    "week": "Week 23",
+    "description": "Your baby is about the size of a large mango.",
+    "slug":"week23",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 24
+
+PUT http://localhost:9000/secondTrimester/5f601e08be18d60602e1a882
+Content-Type: application/json
+
+{
+    "week": "Week 24",
+    "description": "Your baby is about the size of a papaya.",
+    "slug":"week24",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 25
+
+PUT http://localhost:9000/secondTrimester/5f601e98be18d60602e1a883
+Content-Type: application/json
+
+{
+    "week": "Week 25",
+    "description": "Your baby is about the size of an eggplant.",
+    "slug":"week25",
+    "trimester": "secondTrimester"
+}
+
+### Add Week 26
+
+PUT http://localhost:9000/secondTrimester/5f601ff9be18d60602e1a884
+Content-Type: application/json
+
+{
+    "week": "Week 26",
+    "description": "Your baby is about the size of a scallion.",
+    "slug":"week26",
+    "trimester": "secondTrimester"
+}

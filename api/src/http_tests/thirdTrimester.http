@@ -1,0 +1,170 @@
+### Call to Third Trimester
+GET http://localhost:9000/thirdTrimester
+
+### Add Week 27
+
+PUT http://localhost:9000/thirdTrimester/5f60209fbe18d60602e1a885
+Content-Type: application/json
+
+{
+    "week": "Week 27",
+    "description": "Your baby is about the size of a cauliflower.",
+    "slug":"week27",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 28
+
+PUT http://localhost:9000/thirdTrimester/5f6020cebe18d60602e1a886
+Content-Type: application/json
+
+{
+    "week": "Week 28",
+    "description": "Your baby is about the size of a head of lettuce.",
+    "slug":"week28",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 29
+
+PUT http://localhost:9000/thirdTrimester/5f602321be18d60602e1a887
+Content-Type: application/json
+
+{
+    "week": "Week 29",
+    "description": "Your baby is about the size of a butternut squash.",
+    "slug":"week29",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 30
+
+PUT http://localhost:9000/thirdTrimester/5f602324be18d60602e1a888
+Content-Type: application/json
+
+{
+    "week": "Week 30",
+    "description": "Your baby is about the size of a bunch of broccoli.",
+    "slug":"week30",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 31
+
+PUT http://localhost:9000/thirdTrimester/5f602327be18d60602e1a889
+Content-Type: application/json
+
+{
+    "week": "Week 31",
+    "description": "Your baby is about the size of a coconut.",
+    "slug":"week31",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 32
+
+PUT http://localhost:9000/thirdTrimester/5f60232bbe18d60602e1a88a
+Content-Type: application/json
+
+{
+    "week": "Week 32",
+    "description": "Your baby is about the size of a large cabbage.",
+    "slug":"week32",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 33
+
+PUT http://localhost:9000/thirdTrimester/5f6023c9be18d60602e1a88d
+Content-Type: application/json
+
+{
+    "week": "Week 33",
+    "description": "Your baby is about the size of a pineapple.",
+    "slug":"week33",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 34
+
+PUT http://localhost:9000/thirdTrimester/5f602629be18d60602e1a88e
+Content-Type: application/json
+
+{
+    "week": "Week 34",
+    "description": "Your baby is about the size of a cantaloupe.",
+    "slug":"week34",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 35
+
+PUT http://localhost:9000/thirdTrimester/5f60262dbe18d60602e1a88f
+Content-Type: application/json
+
+{
+    "week": "Week 35",
+    "description": "Your baby is about the size of a honeydew melon.",
+    "slug":"week35",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 36
+
+PUT http://localhost:9000/thirdTrimester/5f602687be18d60602e1a890
+Content-Type: application/json
+
+{
+    "week": "Week 36",
+    "description": "Your baby is about the size of a head of romaine lettuce.",
+    "slug":"week36",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 37
+
+PUT http://localhost:9000/thirdTrimester/5f6026f4be18d60602e1a891
+Content-Type: application/json
+
+{
+    "week": "Week 37",
+    "description": "Your baby is about the size of swiss chard.",
+    "slug":"week37",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 38
+
+PUT http://localhost:9000/thirdTrimester/5f60277dbe18d60602e1a892
+Content-Type: application/json
+
+{
+    "week": "Week 38",
+    "description": "Your baby is about the size of a leek.",
+    "slug":"week38",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 39
+
+PUT http://localhost:9000/thirdTrimester/5f602864be18d60602e1a893
+Content-Type: application/json
+
+{
+    "week": "Week 39",
+    "description": "Your baby is about the size of a small pumpkin.",
+    "slug":"week39",
+    "trimester": "thirdTrimester"
+}
+
+### Add Week 40
+
+PUT http://localhost:9000/thirdTrimester/5f602871be18d60602e1a894
+Content-Type: application/json
+
+{
+    "week": "Week 40",
+    "description": "Your baby is about the size of watermelon.",
+    "slug":"week40",
+    "trimester": "thirdTrimester"
+}

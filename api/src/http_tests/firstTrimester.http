@@ -1,0 +1,159 @@
+### Test he home page endpoint
+
+GET http://localhost:9000/firstTrimester
+
+### Add Week 1
+
+PUT http://localhost:9000/firstTrimester/5f5d092d56e2e508a846ff8f
+Content-Type: application/json
+
+{
+    "week": "Week 1",
+    "description": "At this point, baby is an idea. Your body is getting ready for ovulation and fertilization!",
+    "slug": "week1",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 2
+
+PUT http://localhost:9000/firstTrimester/5f5d099b56e2e508a846ff90
+Content-Type: application/json
+
+{
+    "week": "Week 2",
+    "description": "One thing is certain. You've had sex and now it's time to hurry up and wait for fertilization! At this point, your baby is a little ball of cells that is growing ever so rapidly.",
+    "slug": "week2",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 3
+
+PUT http://localhost:9000/firstTrimester/5f5d099f56e2e508a846ff91
+Content-Type: application/json
+
+{
+    "week": "Week 3",
+    "description": "Implantation-train all aboard! Your developing baby is a blastocyte and is making its way to your uterus to implant itself into the uterine wall.",
+    "slug":"week3",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 4
+
+PUT http://localhost:9000/firstTrimester/5f5d09a256e2e508a846ff92
+Content-Type: application/json
+
+{
+    "week": "Week 4",
+    "description": "Your baby is about the size of a poppy seed.",
+    "slug":"week4",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 5
+
+PUT http://localhost:9000/firstTrimester/5f5d09a856e2e508a846ff93
+Content-Type: application/json
+
+{
+    "week": "Week 5",
+    "description": "Your baby is about the size of a sesame seed.",
+    "slug":"week5",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 6
+
+PUT http://localhost:9000/firstTrimester/5f5d09a956e2e508a846ff94
+Content-Type: application/json
+
+{
+    "week": "Week 6",
+    "description": "Your baby is about the size of a sweet pea.",
+    "slug":"week6",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 7
+
+PUT http://localhost:9000/firstTrimester/5f5d09ae56e2e508a846ff95
+Content-Type: application/json
+
+{
+    "week": "Week 7",
+    "description": "Your baby is about the size of a blueberry.",
+    "slug":"week7",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 8
+
+PUT http://localhost:9000/firstTrimester/5f5d09b356e2e508a846ff96
+Content-Type: application/json
+
+{
+    "week": "Week 8",
+    "description": "Your baby is about the size of a raspberry.",
+    "slug":"week8",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 9
+
+PUT http://localhost:9000/firstTrimester/5f5d09be56e2e508a846ff97
+Content-Type: application/json
+
+{
+    "week": "Week 9",
+    "description": "Your baby is about the size of a cherry.",
+    "slug":"week9",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 10
+
+PUT http://localhost:9000/firstTrimester/5f5d0a3956e2e508a846ff98
+Content-Type: application/json
+
+{
+    "week": "Week 10",
+    "description": "Your baby is about the size of a green olive.",
+    "slug":"week10",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 11
+
+PUT http://localhost:9000/firstTrimester/5f5d0a3d56e2e508a846ff99
+Content-Type: application/json
+
+{
+    "week": "Week 11",
+    "description": "Your baby is about the size of a fig.",
+    "slug":"week11",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 12
+
+PUT http://localhost:9000/firstTrimester/5f5d0a4056e2e508a846ff9a
+Content-Type: application/json
+
+{
+    "week": "Week 12",
+    "description": "Your baby is about the size of a lime.",
+    "slug":"week12",
+    "trimester": "firstTrimester"
+}
+
+### Add Week 13
+
+PUT http://localhost:9000/firstTrimester/5f5d0a6c56e2e508a846ff9b
+Content-Type: application/json
+
+{
+    "week": "Week 13",
+    "description": "Your baby is about the size of a lemon.",
+    "slug":"week13",
+    "trimester": "firstTrimester"
+}
