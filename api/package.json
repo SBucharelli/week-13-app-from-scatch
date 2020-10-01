@@ -3,9 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start:express": "./node_modules/.bin/env-cmd ./node_modules/.bin/nodemon ./src/index.js"
+    "start": "node ./src/index.js",
+    "dev": "./node_modules/.bin/env-cmd ./node_modules/.bin/nodemon ./src/index.js",
+    "zip-for-aws": "node make-zip-for-aws.js"
   },
   "dependencies": {
+    "archiver": "^5.0.2",
     "body-parser": "^1.19.0",
     "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",

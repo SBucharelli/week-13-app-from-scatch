@@ -1,6 +1,7 @@
 import React from 'react';
 import Week from './Week'
 import BackButton from './BackButton'
+import config from '../config'
 
 class ThirdTrimester extends React.Component {
   constructor() {
@@ -9,7 +10,7 @@ class ThirdTrimester extends React.Component {
   }
 
   callAPI = async () => {
-    const response = await fetch("http://localhost:9000/thirdTrimester");
+    const response = await fetch(`${config.API_URL}thirdTrimester`);
     const body = await response.json();
     if (response.status !== 200) throw Error(body.message);
     return body;
